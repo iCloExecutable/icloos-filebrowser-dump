@@ -1,0 +1,13 @@
+c:\users\eren yildiz\documents\visual studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriClo.vbproj.GenerateResource.Cache
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\bin\Debug\iClo File Browser.exe.config
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\bin\Debug\iClo File Browser.exe
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\bin\Debug\iClo File Browser.pdb
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\bin\Debug\iClo File Browser.xml
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriCloDump.AboutBox1.resources
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriCloDump.abt.resources
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriCloDump.Form1.resources
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriCloDump.Resources.resources
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\iClo File Browser.exe
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\iClo File Browser.xml
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\iClo File Browser.pdb
+C:\Users\Eren YILDIZ\Documents\Visual Studio 2013\Projects\FileBrowseriClo\FileBrowseriClo\obj\Debug\FileBrowseriCloDump.SplashScreen1.resources
